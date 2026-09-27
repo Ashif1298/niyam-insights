@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" width="100%" height="100%">
+  <!-- Icon Mark: Deep Navy Square with White 'N' -->
+  <rect x="5" y="10" width="80" height="80" rx="8" fill="#0D274D" />
+  <text x="45" y="68" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-weight="800" font-size="58" fill="#FFFFFF" text-anchor="middle">N</text>
+  
+  <!-- Wordmark: NIYAM -->
+  <text x="105" y="58" font-family="'Plus Jakarta Sans', 'Inter', -apple-system, sans-serif" font-weight="900" font-size="44" fill="#0D274D" letter-spacing="4">NIYAM</text>
+  
+  <!-- Subtitle: INSIGHTS -->
+  <text x="107" y="86" font-family="'Plus Jakarta Sans', 'Inter', -apple-system, sans-serif" font-weight="700" font-size="22" fill="#586A7A" letter-spacing="9">INSIGHTS</text>
+</svg>
